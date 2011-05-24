@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rob.XpMan.PotterKata2", "Rob.XpMan.PotterKata2\Rob.XpMan.PotterKata2.csproj", "{1671E336-C7CB-40AA-9A31-D52091F235EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rob.XpMan.PotterKata2.Tests", "Rob.XpMan.PotterKata2.Tests\Rob.XpMan.PotterKata2.Tests.csproj", "{03F45252-DAC6-491E-9753-B1703CF8EA9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1671E336-C7CB-40AA-9A31-D52091F235EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1671E336-C7CB-40AA-9A31-D52091F235EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1671E336-C7CB-40AA-9A31-D52091F235EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1671E336-C7CB-40AA-9A31-D52091F235EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F45252-DAC6-491E-9753-B1703CF8EA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F45252-DAC6-491E-9753-B1703CF8EA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F45252-DAC6-491E-9753-B1703CF8EA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F45252-DAC6-491E-9753-B1703CF8EA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
