@@ -1,0 +1,9 @@
+Code from pair programming sessions at XP Manchester XL 2.
+
+Projects:
+
+PotterKata,PotterKata2,PotterKata3. A test driven excercise for producing prices for a shopping basket of Harry Potter books.
+
+CheckoutKata - Another excercise for supermarket discount calculation with some Refuctoring applied.
+
+HelloWorldBot - a simple console app which was used to test the server for the Tic Tac Toe competitions.
